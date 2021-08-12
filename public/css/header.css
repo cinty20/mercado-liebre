@@ -1,0 +1,10 @@
+header{
+    background-color: var (--amarillo);
+    padding: 30px 20px 20px 20px;
+}
+
+header .logo-search  .logo{
+    width: 48%;
+    margin-left: 10px;
+    margin-top: 10px;
+}

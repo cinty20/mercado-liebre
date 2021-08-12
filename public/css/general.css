@@ -1,0 +1,40 @@
+
+
+
+
+
+.home main section {
+    display: flex ;
+    flex-wrap: wrap;
+}
+
+.home main section h4{
+    width:100%
+}
+
+
+
+
+
+
+
+
+/*camion de envios*/
+.home main section article .data i {
+    color: var(--verde);
+    border-top:solid
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*precio*/
+.home main section
